@@ -8,4 +8,5 @@ ADDING SOME NEW CONTENT BY DEV-4
 
 namaste!!
 
-checking with CROS Synx
+checking with CRON Synx
+
