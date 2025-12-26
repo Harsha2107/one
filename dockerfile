@@ -7,6 +7,5 @@ THIS IS JENKINS CLASS, THANKS FOR JOINING
 ADDING SOME NEW CONTENT BY DEV-4
 
 namaste!!
+kjh
 
-checking with CRON Synx
-revert6img
